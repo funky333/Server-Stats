@@ -1,0 +1,12 @@
+main: de.funky33.serverstats.Main
+version: 0.1.1
+name: ServerStatus
+author: funky33
+
+commands:
+    serverstats:
+      description: Show the Server Stats.
+
+permissions:
+    serverstats.stats:
+      default: op

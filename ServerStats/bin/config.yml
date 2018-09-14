@@ -1,0 +1,7 @@
+Message:
+  whitelist: '&aWhitelist Status:&c'
+  whitelisted: '&aAmount of whitelisted Players:&c'
+  onlineplayers: '&aPlayers online:&c'
+  serverversion: '&aServer version:&c'
+  bannedplayers: '&aAmount of banned Players:&c'
+  onlinemode: '&aOnlineMode:&c'
